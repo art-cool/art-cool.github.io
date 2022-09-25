@@ -827,7 +827,7 @@ html.show-mobile-nav .navbar-list {
     margin: 16px;
     padding: 40px 38px 45px;
     min-width: 350px;
-    min-height: 370px;
+    min-height: 200px;
     border-radius: 24px;
     overflow: hidden;
     word-break: break-all;
