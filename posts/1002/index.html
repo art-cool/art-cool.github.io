@@ -28,7 +28,7 @@
 
   
 
-  <title>莫奈名画欣赏：《日出·印象》 | ART.cool</title>
+  <title>如何插入图片 | ART.cool</title>
 
   
 
@@ -53,7 +53,7 @@
 <!-- header container -->
 <header class="header-container post">
   
-    <div class="post-image" style="background-image: url(https://img.doc.wendoc.com/pic/5a10d9056acad88eb470c24a/2-623-png_6_0_0_135_393_648_505_892.979_1262.879-800-0-0-800.jpg)"></div>
+    <div class="post-image" style="background-image: url(https://qiniu.sukoshi.xyz/src/images/68686407_p0.jpg)"></div>
   
 
   <!-- navbar -->
@@ -102,20 +102,24 @@
     <div class="header-content">
       <div class="post-text layout-block">
         <div class="layout-margin">
-          <h1 class="title-wrap">莫奈名画欣赏：《日出·印象》</h1>
+          <h1 class="title-wrap">如何插入图片</h1>
           <h2 class="title-sub-wrap">
             <strong>Art.cool</strong>
             <span>发布于</span>
-            <time  class="article-date" datetime="2022-09-22T16:37:12.000Z" itemprop="datePublished">2022-09-23</time>
+            <time  class="article-date" datetime="2022-09-22T10:38:00.000Z" itemprop="datePublished">2022-09-22</time>
           </h2>
           <ul class="wrap-list dark">
   
-    <li><a href="/categories/%E6%B2%B9%E7%94%BB/">📒 油画</a></li>
+    <li><a href="/categories/doc/">📒 doc</a></li>
   
 </ul>
           <ul class="wrap-list dark">
   
-    <li><a href="/tags/%E8%8E%AB%E5%A5%88-%E6%B2%B9%E7%94%BB-%E6%97%A5%E5%87%BA%C2%B7%E5%8D%B0%E8%B1%A1/">🏷️ 莫奈 油画 日出·印象</a></li>
+    <li><a href="/tags/photo/">🏷️ photo</a></li>
+  
+    <li><a href="/tags/image/">🏷️ image</a></li>
+  
+    <li><a href="/tags/player/">🏷️ player</a></li>
   
 </ul>
         </div>
@@ -142,12 +146,30 @@
       
       
       <section class="article-entry markdown-body layout-margin content-padding--large soft-size--large soft-style--box">
-        <p>《日出·印象》（英语：Impression Sunrise；法语：Impression,Soleil levant）是法国<a target="_blank" rel="noopener" href="https://baike.baidu.com/item/%E5%8D%B0%E8%B1%A1%E6%B4%BE/95120?fromModule=lemma_inlink">印象派</a>画家<a target="_blank" rel="noopener" href="https://baike.baidu.com/item/%E5%85%8B%E5%8A%B3%E5%BE%B7%C2%B7%E8%8E%AB%E5%A5%88/8741974?fromModule=lemma_inlink">克劳德·莫奈</a>于1872年在<a target="_blank" rel="noopener" href="https://baike.baidu.com/item/%E5%8B%92%E9%98%BF%E5%BC%97%E5%B0%94%E6%B8%AF/3178558?fromModule=lemma_inlink">勒阿弗尔港</a>口创作的一幅油画。该画描绘了晨雾笼罩中的日出港口景象，用美妙的光的变幻与运动展现了迷人景色，以及画家用轻快跳跃的笔触刻画了光在宽阔的海面上反射与颤动的生动景象。现藏于巴黎马尔莫丹艺术馆。</p>
- <img src="https://img.doc.wendoc.com/pic/5a10d9056acad88eb470c24a/2-623-png_6_0_0_135_393_648_505_892.979_1262.879-800-0-0-800.jpg"/>
+        <p>Hexo提供了很多内置标签，如插入<code>Vimeo</code>, <code>Youtube</code>, <code>Image</code>等</p>
+<p>具体详情可查看: <a target="_blank" rel="noopener" href="https://hexo.io/zh-cn/docs/tag-plugins">tag-plugins</a></p>
+<p>除了以上官方内置的标签，flex-block添加了以下自定义标签:</p>
+<p><a target="_blank" rel="noopener" href="https://github.com/miiiku/flex-block">https://github.com/miiiku/flex-block</a></p>
+<p>例如：</p>
+<p>title: 如何插入图片<br>date: 2022-09-24 18:38:00</p>
+<p>categories: doc</p>
+<p>tags: [photo,image,player]</p>
+<p>cover: <a target="_blank" rel="noopener" href="https://qiniu.sukoshi.xyz/src/images/68686407_p0.jpg">https://qiniu.sukoshi.xyz/src/images/68686407_p0.jpg</a><br>top_img: <a target="_blank" rel="noopener" href="https://qiniu.sukoshi.xyz/src/images/68686407_p0.jpg">https://qiniu.sukoshi.xyz/src/images/68686407_p0.jpg</a></p>
+<h2 id="image"><a href="#image" class="headerlink" title="image"></a>image</h2><p>插入带描述的图片并支持懒加载(前提是游览器支持lazy)</p>
+<p>使用方法:</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">&#123;%  image</span><br><span class="line">    url=&quot;https://qiniu.sukoshi.xyz/src/images/68686407_p0.jpg&quot;</span><br><span class="line">    title=&quot;带描述带图片&quot;</span><br><span class="line">%&#125;</span><br></pre></td></tr></table></figure>
 
+<p><img src="https://qiniu.sukoshi.xyz/src/images/68686407_p0.jpg" alt="带描述带图片"></p>
+<h2 id="aplayer"><a href="#aplayer" class="headerlink" title="aplayer"></a>aplayer</h2><p>插入aplayer音频播放器需要在<code>Front-matter</code>中添加<code>aplayer: true</code></p>
+<p>使用方法:</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">&#123;%  aplayer</span><br><span class="line">    url=&quot;https://qiniu.sukoshi.xyz/public/music/鹿乃 - アイロニ.mp3&quot;</span><br><span class="line">    name=&quot;アイロニ&quot;</span><br><span class="line">    artist=&quot;鹿乃&quot;</span><br><span class="line">    cover=&quot;https://qiniu.sukoshi.xyz/public/music/鹿乃 - アイロニ.jpg&quot;</span><br><span class="line">    lrc=&quot;https://qiniu.sukoshi.xyz/public/music/鹿乃 - アイロニ.lrc&quot;</span><br><span class="line">    lrcType=&quot;3&quot;</span><br><span class="line">%&#125;</span><br></pre></td></tr></table></figure>
 
+<div class="aplayer-box" data-url='https://qiniu.sukoshi.xyz/public/music/鹿乃 - アイロニ.mp3' data-name='アイロニ' data-artist='鹿乃' data-cover='https://qiniu.sukoshi.xyz/public/music/鹿乃 - アイロニ.jpg' data-lrc='https://qiniu.sukoshi.xyz/public/music/鹿乃 - アイロニ.lrc' data-lrcType='3' ></div>
 
-<p>该幅作品突破了传统题材和构图的限制，完全以视觉经验的感知为出发点，侧重表现光线氛围中变幻无穷的外观，是莫奈画作中最典型的一幅，也是日后最具声誉的经典画作，是印象画派的开山之作。</p>
+<h2 id="dplayer"><a href="#dplayer" class="headerlink" title="dplayer"></a>dplayer</h2><p>插入dplayer音频播放器需要在<code>Front-matter</code>中添加<code>dplayer: true</code></p>
+<p>使用方法:</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">&#123;%  dplayer</span><br><span class="line">    url=&quot;https://qiniu.sukoshi.xyz/video/%E7%BE%8E.mp4&quot;</span><br><span class="line">    pic=&quot;https://qiniu.sukoshi.xyz/video/%E7%BE%8E.mp4?vframe/jpg/offset/10&quot;</span><br><span class="line">%&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
 
       </section>
 
@@ -158,12 +180,12 @@
             <div class="article-nav-item layout-padding">
   <article class="card-container article-nav-card content-padding--primary soft-size--large soft-style--box">
     
-      <div class="card-cover" background-image-lazy data-img="https://picb.zhimg.com/v2-0f6e93f763dfe4d122f9373eae119ce6_1440w.jpg"></div>
+      <div class="card-cover" background-image-lazy data-img="https://img.doc.wendoc.com/pic/5a10d9056acad88eb470c24a/2-623-png_6_0_0_135_393_648_505_892.979_1262.879-800-0-0-800.jpg"></div>
     
     <div class="card-text">
       
-        <a href="/posts/1003/" itemprop="url">
-          <h2 class="card-text--title text-ellipsis">莫奈名画欣赏：《池塘·睡莲》</h2>
+        <a href="/posts/1001/" itemprop="url">
+          <h2 class="card-text--title text-ellipsis">莫奈名画欣赏：《日出·印象》</h2>
         </a>
       
       <div class="card-text--row">Newer</div>
@@ -171,22 +193,6 @@
   </article>
 </div>
           
-          
-            <div class="article-nav-item layout-padding">
-  <article class="card-container article-nav-card content-padding--primary soft-size--large soft-style--box">
-    
-      <div class="card-cover" background-image-lazy data-img="https://qiniu.sukoshi.xyz/src/images/68686407_p0.jpg"></div>
-    
-    <div class="card-text">
-      
-        <a href="/posts/1001/" itemprop="url">
-          <h2 class="card-text--title text-ellipsis">如何插入图片</h2>
-        </a>
-      
-      <div class="card-text--row">Older</div>
-    </div>
-  </article>
-</div>
           
         </nav>
       
@@ -267,14 +273,14 @@
     <ul class="categorys-list">
       
         <li class="categorys-list-item">
-          <a href="/categories/doc/">
-            doc (1)
+          <a href="/categories/%E6%B2%B9%E7%94%BB/">
+            油画 (5)
           </a>
         </li>
       
         <li class="categorys-list-item">
-          <a href="/categories/%E6%B2%B9%E7%94%BB/">
-            油画 (5)
+          <a href="/categories/doc/">
+            doc (1)
           </a>
         </li>
       
