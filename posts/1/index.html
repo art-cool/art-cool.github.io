@@ -28,7 +28,7 @@
 
   
 
-  <title>关于我们 | ART.cool</title>
+  <title>如何插入图片 | ART.cool</title>
 
   
 
@@ -51,9 +51,9 @@
   <div class="root-container">
     
 <!-- header container -->
-<header class="header-container">
+<header class="header-container post">
   
-    <div class="post-image" style="background-image: url(https://qiniu.sukoshi.xyz/src/images/68135789_p0.jpg)"></div>
+    <div class="post-image" style="background-image: url(https://qiniu.sukoshi.xyz/src/images/68686407_p0.jpg)"></div>
   
 
   <!-- navbar -->
@@ -99,17 +99,35 @@
 
   
   
-
-  
-  
     <div class="header-content">
-      <div class="post-text layout-block layout-padding">
-        <h1 class="title-wrap">关于我们</h1>
-        
-          <h2 class="title-sub-wrap">About Us</h2>
-        
+      <div class="post-text layout-block">
+        <div class="layout-margin">
+          <h1 class="title-wrap">如何插入图片</h1>
+          <h2 class="title-sub-wrap">
+            <strong>Art.cool</strong>
+            <span>发布于</span>
+            <time  class="article-date" datetime="2022-09-22T10:38:00.000Z" itemprop="datePublished">2022-09-22</time>
+          </h2>
+          <ul class="wrap-list dark">
+  
+    <li><a href="/categories/doc/">📒 doc</a></li>
+  
+</ul>
+          <ul class="wrap-list dark">
+  
+    <li><a href="/tags/photo/">🏷️ photo</a></li>
+  
+    <li><a href="/tags/image/">🏷️ image</a></li>
+  
+    <li><a href="/tags/player/">🏷️ player</a></li>
+  
+</ul>
+        </div>
       </div>
     </div>
+  
+
+  
   
 
 
@@ -117,37 +135,80 @@
   <meta name="referrer" content="never">
 </header>
 
-    <!-- 分页(其他自定义页面) -->
+    <!-- 文章 -->
 
-<!-- 自定义页面 -->
-
+<!-- 文章内容 -->
 <div class="body-container">
   <article class="content-container layout-block post-container">
     <div class="article-info">
       
+      
+      
+      
       <section class="article-entry markdown-body layout-margin content-padding--large soft-size--large soft-style--box">
-        
-    <figure class="figure-image">
-      <img src="https://qiniu.sukoshi.xyz/src/images/68686407_p0.jpg" alt="www.ART.cool" loading="lazy" />
-      <figcaption>www.ART.cool</figcaption>
-    </figure>
-  
+        <p>Hexo提供了很多内置标签，如插入<code>Vimeo</code>, <code>Youtube</code>, <code>Image</code>等</p>
+<p>具体详情可查看: <a target="_blank" rel="noopener" href="https://hexo.io/zh-cn/docs/tag-plugins">tag-plugins</a></p>
+<p>除了以上官方内置的标签，flex-block添加了以下自定义标签:</p>
+<p><a target="_blank" rel="noopener" href="https://github.com/miiiku/flex-block">https://github.com/miiiku/flex-block</a></p>
+<p>例如：</p>
+<p>title: 如何插入图片<br>date: 2022-09-24 18:38:00</p>
+<p>categories: doc</p>
+<p>tags: [photo,image,player]</p>
+<p>cover: <a target="_blank" rel="noopener" href="https://qiniu.sukoshi.xyz/src/images/68686407_p0.jpg">https://qiniu.sukoshi.xyz/src/images/68686407_p0.jpg</a><br>top_img: <a target="_blank" rel="noopener" href="https://qiniu.sukoshi.xyz/src/images/68686407_p0.jpg">https://qiniu.sukoshi.xyz/src/images/68686407_p0.jpg</a></p>
+<h2 id="image"><a href="#image" class="headerlink" title="image"></a>image</h2><p>插入带描述的图片并支持懒加载(前提是游览器支持lazy)</p>
+<p>使用方法:</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">&#123;%  image</span><br><span class="line">    url=&quot;https://qiniu.sukoshi.xyz/src/images/68686407_p0.jpg&quot;</span><br><span class="line">    title=&quot;带描述带图片&quot;</span><br><span class="line">%&#125;</span><br></pre></td></tr></table></figure>
 
-<div class="aplayer-box" data-url='https://qiniu.sukoshi.xyz/attach/2021/04/12/you（寒蝉鸣泣之时）伴奏.mp3' data-name='you（寒蝉鸣泣之时）伴奏' data-artist='M.Graveyard' data-cover='https://qiniu.sukoshi.xyz/public/music/鹿乃 - アイロニ.jpg' data-lrc='https://qiniu.sukoshi.xyz/public/music/鹿乃 - アイロニ.lrc' data-lrcType='3' ></div>
+<p><img src="https://qiniu.sukoshi.xyz/src/images/68686407_p0.jpg" alt="带描述带图片"></p>
+<h2 id="aplayer"><a href="#aplayer" class="headerlink" title="aplayer"></a>aplayer</h2><p>插入aplayer音频播放器需要在<code>Front-matter</code>中添加<code>aplayer: true</code></p>
+<p>使用方法:</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">&#123;%  aplayer</span><br><span class="line">    url=&quot;https://qiniu.sukoshi.xyz/public/music/鹿乃 - アイロニ.mp3&quot;</span><br><span class="line">    name=&quot;アイロニ&quot;</span><br><span class="line">    artist=&quot;鹿乃&quot;</span><br><span class="line">    cover=&quot;https://qiniu.sukoshi.xyz/public/music/鹿乃 - アイロニ.jpg&quot;</span><br><span class="line">    lrc=&quot;https://qiniu.sukoshi.xyz/public/music/鹿乃 - アイロニ.lrc&quot;</span><br><span class="line">    lrcType=&quot;3&quot;</span><br><span class="line">%&#125;</span><br></pre></td></tr></table></figure>
 
-<h1 id="关于我们"><a href="#关于我们" class="headerlink" title="关于我们"></a>关于我们</h1><p><a href="http://www.art.cool/">www.ART.cool</a> 网站是一个专为艺术家提供线上展览的网站。本网站成立于2022年1月31日，是以公众号与网站双支持的网站，以优质的编辑文章、网页排版和设计展示艺术家的作品。本站与众多知名艺术家有联系，也诚邀看到本网的艺术家们来合作。</p>
-<p>公众号关注请搜索：artcool</p>
-<p>​                                  华人美术家洲际导航</p>
-<p>联系方法：投稿邮箱<a href="mailto:&#97;&#114;&#116;&#99;&#x6f;&#x6f;&#105;&#64;&#49;&#x32;&#54;&#x2e;&#99;&#x6f;&#109;">&#97;&#114;&#116;&#99;&#x6f;&#x6f;&#105;&#64;&#49;&#x32;&#54;&#x2e;&#99;&#x6f;&#109;</a></p>
-<div class="dplayer-box" data-url='http://vjs.zencdn.net/v/oceans.mp4' data-pic='http://vjs.zencdn.net/v/oceans.mp4?vframe/jpg/offset/10' ></div>
+<div class="aplayer-box" data-url='https://qiniu.sukoshi.xyz/public/music/鹿乃 - アイロニ.mp3' data-name='アイロニ' data-artist='鹿乃' data-cover='https://qiniu.sukoshi.xyz/public/music/鹿乃 - アイロニ.jpg' data-lrc='https://qiniu.sukoshi.xyz/public/music/鹿乃 - アイロニ.lrc' data-lrcType='3' ></div>
+
+<h2 id="dplayer"><a href="#dplayer" class="headerlink" title="dplayer"></a>dplayer</h2><p>插入dplayer音频播放器需要在<code>Front-matter</code>中添加<code>dplayer: true</code></p>
+<p>使用方法:</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">&#123;%  dplayer</span><br><span class="line">    url=&quot;https://qiniu.sukoshi.xyz/video/%E7%BE%8E.mp4&quot;</span><br><span class="line">    pic=&quot;https://qiniu.sukoshi.xyz/video/%E7%BE%8E.mp4?vframe/jpg/offset/10&quot;</span><br><span class="line">%&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
 
       </section>
 
       
       
+        <nav class="article-nav">
+          
+            <div class="article-nav-item layout-padding">
+  <article class="card-container article-nav-card content-padding--primary soft-size--large soft-style--box">
+    
+      <div class="card-cover" background-image-lazy data-img="https://img.doc.wendoc.com/pic/5a10d9056acad88eb470c24a/2-623-png_6_0_0_135_393_648_505_892.979_1262.879-800-0-0-800.jpg"></div>
+    
+    <div class="card-text">
+      
+        <a href="/posts/2/" itemprop="url">
+          <h2 class="card-text--title text-ellipsis">莫奈名画欣赏：《日出·印象》</h2>
+        </a>
+      
+      <div class="card-text--row">Newer</div>
+    </div>
+  </article>
+</div>
+          
+          
+        </nav>
+      
 
-      
-      
+      <section class="page-message-container layout-padding">
+        
+
+
+  
+  
+
+  
+  
+
+
+      </section>
     </div>
     <div class="widget-info">
       <section class="widget-author widget-item layout-margin content-padding--primary soft-size--large soft-style--box">
@@ -184,6 +245,8 @@
     </div>
   </div>
 </section>
+
+      
 
       
 <section class="widet-notice widget-item layout-margin content-padding--primary soft-size--large soft-style--box">
@@ -241,7 +304,6 @@
     </div>
   </article>
 </div>
-
 
     <!-- footer container -->
 <footer id="footer" class="footer">
@@ -319,70 +381,7 @@
   <!-- aplayer -->
 
 
-  <!-- aplayer 音频 start -->
-  <link rel="stylesheet" href="https://unpkg.com/aplayer@1.10.1/dist/APlayer.min.css">
-  <script type="text/javascript" src="https://unpkg.com/aplayer@1.10.1/dist/APlayer.min.js"></script>
-  <script type="text/javascript">
-    const aplayer = document.querySelectorAll(".aplayer-box");
-    aplayer && initaplayer(aplayer);
-    function initaplayer(els) {
-      let elsArr = Array.from(els);
-      elsArr.forEach(el => {
-        let params = {
-          container: el,
-          audio: { ...el.dataset },
-          theme: "#b7daff",
-          autoplay: false,
-          loop: false,
-          mutex: true,
-        }
-        if (el.dataset.lrc) {
-          params['lrcType'] = 3
-        }
-        new APlayer(params);
-      });
-    }
-  </script>
-  <!-- aplayer 音频 end -->
-  
-
-
 <!-- dplayer -->
-
-
-<!-- dplayer 视频 start -->
-<script type="text/javascript" src="https://unpkg.com/hls.js@1.0.1/dist/hls.js"></script>
-<script type="text/javascript" src="https://unpkg.com/dplayer@1.25.1/dist/DPlayer.min.js"></script>
-<script type="text/javascript">
-  const dplayer = document.querySelectorAll(".dplayer-box");
-  dplayer && initDPlayer(dplayer);
-  function initDPlayer(els) {
-    let elsArr = Array.from(els);
-    elsArr.forEach(el => {
-      let url = el.dataset.url;
-      let pic = el.dataset.pic;
-      let subtitle = el.dataset.subtitle;
-
-      let options = {
-        container: el,
-        video: { url: url, pic: pic },
-        theme: "#b7daff",
-        autoplay: false,
-        loop: false,
-        mutex: true,
-      }
-
-      if (subtitle) {
-        options.subtitle = {
-          url: el.dataset.subtitle,
-        }
-      }
-      new DPlayer(options);
-    });
-  }
-</script>
-<!-- dplayer 视频 end -->
-
 
 
 
