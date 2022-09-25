@@ -1,12 +1,14 @@
 window.addEventListener("DOMContentLoaded", function() {
   const html            = document.querySelector("html");
+  const navBar          = document.querySelector(".navbar");
   const navBtn          = document.querySelector(".navbar-btn");
   const navList         = document.querySelector(".navbar-list");
   const backToTopFixed  = document.querySelector(".back-to-top-fixed");
-  let lastTop           = 0;
-  let theme             = window.localStorage.getItem('theme') || '';
+  const images          = Array.from(document.images);
+  const navBarH         = 54;
 
-  theme && html.classList.add(theme)
+  let scroll            = getScrollTop();
+  let lastTop           = 0;
 
   const goScrollTop = () => {
     let currentTop = getScrollTop()
@@ -31,26 +33,11 @@ window.addEventListener("DOMContentLoaded", function() {
 
   toggleBackToTopBtn()
 
-  // theme light click
-  document.querySelector('#theme-light').addEventListener('click', function () {
-    html.classList.remove('theme-dark')
-    html.classList.add('theme-light')
-    window.localStorage.setItem('theme', 'theme-light')
-  })
-
-  // theme dark click
-  document.querySelector('#theme-dark').addEventListener('click', function () {
-    html.classList.remove('theme-light')
-    html.classList.add('theme-dark')
-    window.localStorage.setItem('theme', 'theme-dark')
-  })
-
-  // theme auto click
-  document.querySelector('#theme-auto').addEventListener('click', function() {
-    html.classList.remove('theme-light')
-    html.classList.remove('theme-dark')
-    window.localStorage.setItem('theme', '')
-  })
+  images.forEach(item => {
+    item.addEventListener("error", function () {
+      this.src = "/images/image-error.jpg";
+    });
+  });
 
   // mobile nav click
   navBtn.addEventListener("click", function () {
@@ -58,7 +45,7 @@ window.addEventListener("DOMContentLoaded", function() {
     this.classList.toggle("active");
   });
 
-  // mobile nav link click
+  // mobile nav links click
   navList.addEventListener("click", function (e) {
     if (e.target.nodeName == "A" && html.classList.contains("show-mobile-nav")) {
       navBtn.click()
@@ -66,17 +53,36 @@ window.addEventListener("DOMContentLoaded", function() {
   })
 
   // click back to top
-  backToTopFixed.addEventListener("click", function () {
+  backToTopFixed.addEventListener("click", function(e) {
     lastTop = getScrollTop()
     goScrollTop()
   });
 
-  window.addEventListener("scroll", function () {
-    toggleBackToTopBtn()
-  }, { passive: true });
+  window.addEventListener("scroll", function (e) {
+    let top = getScrollTop();
+    let dir = top - scroll;
+    
+    if (top > navBarH && !navBar.classList.contains("fixed")) {
+      navBar.classList.add("fixed");
+    }
 
-  /** handle lazy bg iamge */
-  handleLazyBG();
+    if (top <= 0 && navBar.classList.contains("fixed")) {
+      navBar.classList.remove("fixed");
+      navBar.classList.remove("visible");
+    }
+
+    if (dir < 0 && navBar.classList.contains("fixed") && !navBar.classList.contains("visible")) {
+      navBar.classList.add("visible");
+    }
+
+    if (dir > 0 && navBar.classList.contains("fixed") && navBar.classList.contains("visible")) {
+      navBar.classList.remove("visible");
+    }
+
+    toggleBackToTopBtn()
+
+    scroll = top;
+  }, { passive: true });
 });
 
 /**
@@ -86,35 +92,4 @@ window.addEventListener("DOMContentLoaded", function() {
  */
 function getScrollTop () {
   return window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop;
-}
-
-function querySelectorArrs (selector) {
-  return Array.from(document.querySelectorAll(selector))
-}
-
-
-function handleLazyBG () {
-  const lazyBackgrounds = querySelectorArrs('[background-image-lazy]')
-  let lazyBackgroundsCount = lazyBackgrounds.length
-  if (lazyBackgroundsCount > 0) {
-    let lazyBackgroundObserver = new IntersectionObserver(function(entries, observer) {
-      entries.forEach(function({ isIntersecting, target }) {
-        if (isIntersecting) {
-          let img = target.dataset.img
-          if (img) {
-            target.style.backgroundImage = `url(${img})`
-          }
-          lazyBackgroundObserver.unobserve(target)
-          lazyBackgroundsCount --
-        }
-        if (lazyBackgroundsCount <= 0) {
-          lazyBackgroundObserver.disconnect()
-        }
-      })
-    })
-
-    lazyBackgrounds.forEach(function(lazyBackground) {
-      lazyBackgroundObserver.observe(lazyBackground)
-    })
-  }
 }
