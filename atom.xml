@@ -2,23 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.art.cool</id>
     <title>酷感艺术在线</title>
+    <subtitle>Art Cool Online Exhibition</subtitle>
+    <icon>https://www.art.cool/images/favicon.ico</icon>
     <link href="https://www.art.cool" />
+    <author>
+      <name>ART.cool</name>
+    </author>
     <updated>2022-10-09T02:00:00.000Z</updated>
-    <category term="黎展华" />
-    <category term="杨亿" />
-    <category term="朱松青" />
-    <category term="罗国强" />
-    <category term="尹秋生" />
-    <category term="孟贤军" />
-    <category term="赵纯" />
-    <category term="陈惠仪" />
-    <category term="张伟" />
-    <category term="何颖斯" />
-    <category term="何少中" />
+    <category term="art" />
+    <category term="cool" />
+    <category term="酷感" />
+    <category term="艺术" />
+    <category term="艺术在线" />
     <entry>
-        <id>https://www.art.cool/posts/7681a626.html</id>
+        <id>https://www.art.cool/2022-10-09-Zhang-Wei-Art-Works/</id>
         <title>凝神写像——张伟作品</title>
-        <link rel="alternate" href="https://www.art.cool/posts/7681a626.html"/>
+        <link rel="alternate" href="https://www.art.cool/2022-10-09-Zhang-Wei-Art-Works/"/>
         <content type="html">&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_png/iboCbkTegTZR7tLBIO1sfI1xQibuQ3M0qLx96LO5aPMHV6Ticr5KcYHPsq8cz2pK1uFfCDqYeLclltfsNt7VIfbGg/640?wx_fmt=png&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;凝神写像&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#凝神写像&#34;&gt;#&lt;/a&gt; 凝神写像&lt;/h2&gt;
 &lt;p&gt;郑梓煜 / 文 (节选)&lt;/p&gt;
@@ -472,13 +471,14 @@
 &lt;h1 id=&#34;-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#-2&#34;&gt;#&lt;/a&gt; &lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;图文由画家本人提供&lt;/strong&gt;&lt;/p&gt;
 </content>
-        <category term="张伟" />
+        <category term="油画" scheme="https://www.art.cool/categories/%E6%B2%B9%E7%94%BB/" />
+        <category term="张伟" scheme="https://www.art.cool/tags/%E5%BC%A0%E4%BC%9F/" />
         <updated>2022-10-09T02:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://www.art.cool/posts/efa1bdf.html</id>
+        <id>https://www.art.cool/2022-09-29-He-Yingsi-washi-Art-Works/</id>
         <title>永无“纸”境——何颖斯和纸艺术作品</title>
-        <link rel="alternate" href="https://www.art.cool/posts/efa1bdf.html"/>
+        <link rel="alternate" href="https://www.art.cool/2022-09-29-He-Yingsi-washi-Art-Works/"/>
         <content type="html">&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZQSricWfP2lXObM21sM6f27zYVw7MILibRdwafoiaItSbQK3uO0WmebUWHwoibDY3Te19NWnSWhc3It1Q/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZQSricWfP2lXObM21sM6f27zy3ic7L7RfL96haR2UIOv4fSGclh62gmKtF7lTBR6OgjYhM1V1maTAWw/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
 &lt;h1 id=&#34;何颖斯he-yingsi&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#何颖斯he-yingsi&#34;&gt;#&lt;/a&gt; 何颖斯 He Yingsi&lt;/h1&gt;
@@ -552,13 +552,14 @@
 &lt;h6 id=&#34;山花-503535-2016年&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#山花-503535-2016年&#34;&gt;#&lt;/a&gt; 山花  50×35×35  2016 年&lt;/h6&gt;
 &lt;p&gt;&lt;strong&gt;图文由画家本人提供&lt;/strong&gt;&lt;/p&gt;
 </content>
-        <category term="何颖斯" />
+        <category term="综合材料" scheme="https://www.art.cool/categories/%E7%BB%BC%E5%90%88%E6%9D%90%E6%96%99/" />
+        <category term="何颖斯" scheme="https://www.art.cool/tags/%E4%BD%95%E9%A2%96%E6%96%AF/" />
         <updated>2022-09-29T03:41:43.000Z</updated>
     </entry>
     <entry>
-        <id>https://www.art.cool/posts/c544bf39.html</id>
+        <id>https://www.art.cool/2022-09-25-He-Shaozhong-Oil-Painting-Works/</id>
         <title>「心象风景线」</title>
-        <link rel="alternate" href="https://www.art.cool/posts/c544bf39.html"/>
+        <link rel="alternate" href="https://www.art.cool/2022-09-25-He-Shaozhong-Oil-Painting-Works/"/>
         <content type="html">&lt;h2 id=&#34;心象风景线何少中油画作品&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#心象风景线何少中油画作品&#34;&gt;#&lt;/a&gt; 「心象风景线」—— 何少中油画作品&lt;/h2&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZQhaPDMa76r5h5GiblzcsaguT2GpCBAdZ5msOGtBXcZRCSdAPibTXLUFRiapvTsJdfYk1gZbzQVmW47A/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZQhaPDMa76r5h5GiblzcsaguahH5iahPw0SQ0anj5jjemEEw2LI6j4IUm4NliarFe0eb0Oice5cvLkdfA/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
@@ -624,13 +625,14 @@
 &lt;h6 id=&#34;心象九-54x38-cm-2020&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#心象九-54x38-cm-2020&#34;&gt;#&lt;/a&gt; 心象九  54x38 cm  2020&lt;/h6&gt;
 &lt;p&gt;&lt;strong&gt;图文由画家本人提供&lt;/strong&gt;&lt;/p&gt;
 </content>
-        <category term="何少中" />
+        <category term="油画" scheme="https://www.art.cool/categories/%E6%B2%B9%E7%94%BB/" />
+        <category term="何少中" scheme="https://www.art.cool/tags/%E4%BD%95%E5%B0%91%E4%B8%AD/" />
         <updated>2022-09-25T00:45:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://www.art.cool/posts/4c07836d.html</id>
+        <id>https://www.art.cool/2022-09-24-Chen-Huiyi-Oil-Painting-Works/</id>
         <title>意象与色彩的融合：陈惠仪·油画作品</title>
-        <link rel="alternate" href="https://www.art.cool/posts/4c07836d.html"/>
+        <link rel="alternate" href="https://www.art.cool/2022-09-24-Chen-Huiyi-Oil-Painting-Works/"/>
         <content type="html">&lt;h1 id=&#34;意象与色彩的融合陈惠仪油画作品&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#意象与色彩的融合陈惠仪油画作品&#34;&gt;#&lt;/a&gt; 意象与色彩的融合：陈惠仪・油画作品&lt;/h1&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZTgtALPJNHa5lLU38mTUTO0gDiaLGicyq6xWhem5dBIHCp39WIGbQt09ARUIaU2S3iaibKLcB0BGjAr7A/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
 &lt;h3 id=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#&#34;&gt;#&lt;/a&gt; &lt;/h3&gt;
@@ -739,13 +741,14 @@
 &lt;h1 id=&#34;-27&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#-27&#34;&gt;#&lt;/a&gt; &lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;图文由画家本人提供&lt;/strong&gt;&lt;/p&gt;
 </content>
-        <category term="陈惠仪" />
+        <category term="油画" scheme="https://www.art.cool/categories/%E6%B2%B9%E7%94%BB/" />
+        <category term="陈惠仪" scheme="https://www.art.cool/tags/%E9%99%88%E6%83%A0%E4%BB%AA/" />
         <updated>2022-09-24T09:20:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://www.art.cool/posts/709401d0.html</id>
+        <id>https://www.art.cool/2022-03-23-Meng-Xianjun-Works/</id>
         <title>艺术的一点认知——孟贤军油画作品</title>
-        <link rel="alternate" href="https://www.art.cool/posts/709401d0.html"/>
+        <link rel="alternate" href="https://www.art.cool/2022-03-23-Meng-Xianjun-Works/"/>
         <content type="html">&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRoYb9d2dwTHfgsH0gVUoCF89MM2pPdWethutDs2d1AFNMKN89y6x9pLrAib5wsKqwrN0Ms2BnTpOA/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
 &lt;h3 id=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#&#34;&gt;#&lt;/a&gt; &lt;/h3&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRoYb9d2dwTHfgsH0gVUoCFtWibsMfSjtmKaTQKM6ugH0EShKRfy4OCb4h01anZpmIyMO6hCKzt2oQ/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
@@ -802,13 +805,14 @@
 &lt;h3 id=&#34;-23&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#-23&#34;&gt;#&lt;/a&gt; &lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;图文由画家本人提供&lt;/strong&gt;&lt;/p&gt;
 </content>
-        <category term="孟贤军" />
+        <category term="油画" scheme="https://www.art.cool/categories/%E6%B2%B9%E7%94%BB/" />
+        <category term="孟贤军" scheme="https://www.art.cool/tags/%E5%AD%9F%E8%B4%A4%E5%86%9B/" />
         <updated>2022-03-22T16:10:30.000Z</updated>
     </entry>
     <entry>
-        <id>https://www.art.cool/posts/4ce5c453.html</id>
+        <id>https://www.art.cool/2022-03-11-Zhu-Songqing-Works-Exhibition/</id>
         <title>突破既定 张扬自由——朱松青人物油画选</title>
-        <link rel="alternate" href="https://www.art.cool/posts/4ce5c453.html"/>
+        <link rel="alternate" href="https://www.art.cool/2022-03-11-Zhu-Songqing-Works-Exhibition/"/>
         <content type="html">&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_png/iboCbkTegTZTXljcOkpliaibzVMuNEKu3Lib86xeYH8ia3js2PzPkxn6OKL8JSau2O7A6vJ7kjD9IOE0vbHGtXIRH6g/640?wx_fmt=png&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
 &lt;h3 id=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#&#34;&gt;#&lt;/a&gt; &lt;/h3&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRKBB4ibgzNPWTohiaysiczQX5BaBHTshjFjwx3ITTV2GoBDeKa6p6Bmf1ZKzIsOKvZ8YmHHUNk5g82w/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
@@ -879,13 +883,14 @@
 &lt;h6 id=&#34;李老师的学生-80x60-油画-2021年&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#李老师的学生-80x60-油画-2021年&#34;&gt;#&lt;/a&gt; &lt;strong&gt;李老师的学生&lt;/strong&gt; 80X60 油画 2021 年&lt;/h6&gt;
 &lt;p&gt;&lt;strong&gt;图文由画家本人提供&lt;/strong&gt;&lt;/p&gt;
 </content>
-        <category term="朱松青" />
+        <category term="油画" scheme="https://www.art.cool/categories/%E6%B2%B9%E7%94%BB/" />
+        <category term="朱松青" scheme="https://www.art.cool/tags/%E6%9C%B1%E6%9D%BE%E9%9D%92/" />
         <updated>2022-03-10T16:10:30.000Z</updated>
     </entry>
     <entry>
-        <id>https://www.art.cool/posts/678e9d9c.html</id>
+        <id>https://www.art.cool/2022-03-16-Zhao-Chun-Works-Exhibition/</id>
         <title>画笔写人生——赵纯油画花卉作品欣赏</title>
-        <link rel="alternate" href="https://www.art.cool/posts/678e9d9c.html"/>
+        <link rel="alternate" href="https://www.art.cool/2022-03-16-Zhao-Chun-Works-Exhibition/"/>
         <content type="html">&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZSR9v8IicGIQaicib0zjrKf4nSnNweYWPjDudz8ibXtXEEteDZLCYcnYRmL4D3BUJ3tEe4SPm3f87CmRQ/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
 &lt;h3 id=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#&#34;&gt;#&lt;/a&gt; &lt;/h3&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47jEOMw24icbn8PjnjUicZlDYrNqiaw8kWMWhzlRISoBqf6dSptXxgeOC4g/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
@@ -969,13 +974,14 @@
 &lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47lGkicak2fdv5P4am7UfW8dWUa0iazETuyFsicRNGAx10I4s7I8t4KBmSA/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;图文由画家本人提供&lt;/strong&gt;&lt;/p&gt;
 </content>
-        <category term="赵纯" />
+        <category term="油画" scheme="https://www.art.cool/categories/%E6%B2%B9%E7%94%BB/" />
+        <category term="赵纯" scheme="https://www.art.cool/tags/%E8%B5%B5%E7%BA%AF/" />
         <updated>2022-03-10T16:10:30.000Z</updated>
     </entry>
     <entry>
-        <id>https://www.art.cool/posts/d64e8498.html</id>
+        <id>https://www.art.cool/2022-03-03-Luo-Guoqiang-Works-Exhibition/</id>
         <title>理解才能放飞——罗国强写意人物和抽象画展</title>
-        <link rel="alternate" href="https://www.art.cool/posts/d64e8498.html"/>
+        <link rel="alternate" href="https://www.art.cool/2022-03-03-Luo-Guoqiang-Works-Exhibition/"/>
         <content type="html">&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZQicg3KYYxxWnCRT04WMk3hIJIOv9qNsevPnEydW6Ay5BFKAbdST3w77eVQnJMm1MP8RRdEJA9TIXw/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
 &lt;h3 id=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#&#34;&gt;#&lt;/a&gt; &lt;/h3&gt;
 &lt;h1 id=&#34;理解才能放飞&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#理解才能放飞&#34;&gt;#&lt;/a&gt; 理解才能放飞&lt;/h1&gt;
@@ -1067,13 +1073,14 @@
 &lt;p&gt;海外华人美术家协会广州分会执行主席，广东省美术家协会会员，曾任第一届广州青年美术协会副会长，广东省油画研究会理事，有多件雕塑，油画作品入选全国美展，全军美展以及省市美展，部分作品并获奖，现回国做自由画家。&lt;/p&gt;
 &lt;p&gt;图文由画家本人提供&lt;/p&gt;
 </content>
-        <category term="罗国强" />
+        <category term="油画" scheme="https://www.art.cool/categories/%E6%B2%B9%E7%94%BB/" />
+        <category term="罗国强" scheme="https://www.art.cool/tags/%E7%BD%97%E5%9B%BD%E5%BC%BA/" />
         <updated>2022-03-02T16:11:30.000Z</updated>
     </entry>
     <entry>
-        <id>https://www.art.cool/posts/f46caac9.html</id>
+        <id>https://www.art.cool/2022-02-26-Yin-Qiusheng-Works-Exhibition/</id>
         <title>剞劂煙雲——尹秋生个人精品展</title>
-        <link rel="alternate" href="https://www.art.cool/posts/f46caac9.html"/>
+        <link rel="alternate" href="https://www.art.cool/2022-02-26-Yin-Qiusheng-Works-Exhibition/"/>
         <content type="html">&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZTKaibx8oHlgyP6g74w3OzRL62YYhdFMwxCzp0TbUZKpg98zibX4CnZfhzEETxSiaYeU1luViaiapOYvWw/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_png/iboCbkTegTZTKaibx8oHlgyP6g74w3OzRLSWqKbvZDwUhPcGte2uSYVxvIYxcqhKkkTmXQekf0GaEgx5DwO3qESg/640?wx_fmt=png&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZTKaibx8oHlgyP6g74w3OzRLjLjNKAUle4Wc5W2HTFicibSK0BBdTVD5FAXo4QC2QSYFYRx8YFSk8Hbg/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
@@ -1137,13 +1144,14 @@
 &lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_png/iboCbkTegTZTKaibx8oHlgyP6g74w3OzRL5uUHDU1WkhwudicpQarA5klzO5xTqCt2QIqDRzyQtY3mXXWKYyaZEeA/640?wx_fmt=png&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;图文由画家本人提供&lt;/strong&gt;&lt;/p&gt;
 </content>
-        <category term="尹秋生" />
+        <category term="雕刻" scheme="https://www.art.cool/categories/%E9%9B%95%E5%88%BB/" />
+        <category term="尹秋生" scheme="https://www.art.cool/tags/%E5%B0%B9%E7%A7%8B%E7%94%9F/" />
         <updated>2022-02-26T02:30:59.000Z</updated>
     </entry>
     <entry>
-        <id>https://www.art.cool/posts/4a7a662e.html</id>
+        <id>https://www.art.cool/2022-02-23-Yang-Yi-Color-Realm-Story-Series-of-Works/</id>
         <title>色境物语——旅美著名画家杨亿作品（色境物语）系列</title>
-        <link rel="alternate" href="https://www.art.cool/posts/4a7a662e.html"/>
+        <link rel="alternate" href="https://www.art.cool/2022-02-23-Yang-Yi-Color-Realm-Story-Series-of-Works/"/>
         <content type="html">&lt;h2 id=&#34;旅美著名画家杨亿作品色境物语系列&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#旅美著名画家杨亿作品色境物语系列&#34;&gt;#&lt;/a&gt; &lt;strong&gt;旅美著名画家杨亿作品（色境物语）系列&lt;/strong&gt;&lt;/h2&gt;
 &lt;h3 id=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#&#34;&gt;#&lt;/a&gt; &lt;/h3&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZR0aZBnUzBkbb8DC8BP89Im4iamgw3WOAdFkqvhvtRov7nHY2A6qXibLWAHHsQ82HTUlibpEqvqVn8Bw/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
@@ -1238,13 +1246,14 @@
 &lt;h3 id=&#34;-52&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#-52&#34;&gt;#&lt;/a&gt; &lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;图文由画家本人提供&lt;/strong&gt;&lt;/p&gt;
 </content>
-        <category term="杨亿" />
+        <category term="油画" scheme="https://www.art.cool/categories/%E6%B2%B9%E7%94%BB/" />
+        <category term="杨亿" scheme="https://www.art.cool/tags/%E6%9D%A8%E4%BA%BF/" />
         <updated>2022-02-23T05:53:50.000Z</updated>
     </entry>
     <entry>
-        <id>https://www.art.cool/posts/2545ede7.html</id>
+        <id>https://www.art.cool/2022-02-03-Li-Zhanhua-Plum-Blossom-Works-Exhibition/</id>
         <title>领表冰姿——黎展华梅花作品展</title>
-        <link rel="alternate" href="https://www.art.cool/posts/2545ede7.html"/>
+        <link rel="alternate" href="https://www.art.cool/2022-02-03-Li-Zhanhua-Plum-Blossom-Works-Exhibition/"/>
         <content type="html">&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZQ4nj1guK9iaFKW9OQkF6WAMo8Cxp62EtiaCGpPXDkgjZgFFIBhiaiayV00NSy3XIyXOYKlr3qtLh0clQ/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;观梅有感&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#观梅有感&#34;&gt;#&lt;/a&gt; &lt;strong&gt;观梅有感&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;​      “雪里已知春信至，寒梅点缀琼枝腻”。观看黎展华主席的梅花，我感觉到了一种温暖，感觉到了生命的绽放。从他年近古来稀的修养角度来看，既有鉴定家的严谨与细腻又有收藏家的大气，更有着文人的浪漫情怀。当凌寒盛开的梅呈现在眼前，仿佛站在梅树下面闻到了一丝春的气息，那些初绽的花蕾，星星点点，含苞待放，那一树的梅花，素洁中带着轻轻的红晕，如此清新，仿佛从冰天雪地中迈着轻盈的步子徐徐走来，傲然吐蕊，暗香浮动，愈发显出了冰清玉洁的秉性气质和阳光向上的精神。&lt;br /&gt;
@@ -1321,7 +1330,8 @@
 &amp;lt;img src=&amp;quot;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X2pwZy9pYm9DYmtUZWdUWlE0bmoxZ3VLOWlhRktXOU9Ra0Y2V0FNUFZMbUZBY1NKUGNNdUhQZnRvemZWNFZjbWVieUM1dUpuR0JaRFlKTG8zT2c1QXd6ZWZNdlJBLzY0MD93eF9mbXQ9anBlZyZhbXA7d3hmcm9tPTUmYW1wO3d4X2xhenk9MSZhbXA7d3hfY289MQ==&#34;&gt;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZQ4nj1guK9iaFKW9OQkF6WAMPVLmFAcSJPcMuHPftozfV4VcmebyC5uJnGBZDYJLo3Og5AwzefMvRA/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&lt;/span&gt;&amp;quot; width=&amp;quot;300&amp;quot;/&amp;gt;&lt;br /&gt;
 &amp;lt;/center&amp;gt;&lt;/p&gt;
 </content>
-        <category term="黎展华" />
+        <category term="水墨" scheme="https://www.art.cool/categories/%E6%B0%B4%E5%A2%A8/" />
+        <category term="黎展华" scheme="https://www.art.cool/tags/%E9%BB%8E%E5%B1%95%E5%8D%8E/" />
         <updated>2022-02-02T16:11:49.000Z</updated>
     </entry>
 </feed>
