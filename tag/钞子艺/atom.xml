@@ -1,40 +1,34 @@
 <?xml version="1.0"?>
-<rss version="2.0">
-    <channel>
-        <title>酷感艺术在线 • Posts by &#34;陶瓷&#34; category</title>
-        <link>https://www.art.cool</link>
-        <description>为艺术家提供展示作品的平台</description>
-        <language>zh-CN</language>
-        <pubDate>Sun, 03 Apr 2022 00:19:03 +0800</pubDate>
-        <lastBuildDate>Sun, 03 Apr 2022 00:19:03 +0800</lastBuildDate>
-        <category>黎展华</category>
-        <category>杨亿</category>
-        <category>尹秋生</category>
-        <category>罗国强</category>
-        <category>朱松青</category>
-        <category>孟贤军</category>
-        <category>赵纯</category>
-        <category>潘跃辉</category>
-        <category>陈惠仪</category>
-        <category>钞子艺</category>
-        <category>钞子伟</category>
-        <category>何颖斯</category>
-        <category>何少中</category>
-        <category>陈庆文</category>
-        <category>李伟文</category>
-        <category>汪昌俞</category>
-        <category>杨永智</category>
-        <category>周荣昌</category>
-        <category>张铁柱</category>
-        <category>张伟</category>
-        <item>
-            <guid isPermalink="true">https://www.art.cool/2022-04-03-Brother-Chao-Works/</guid>
-            <title>陶瓷雕塑语言转型——钞氏兄弟陶瓷雕塑作品鉴赏</title>
-            <link>https://www.art.cool/2022-04-03-Brother-Chao-Works/</link>
-            <category>钞子艺</category>
-            <category>钞子伟</category>
-            <pubDate>Sun, 03 Apr 2022 00:19:03 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_png/iboCbkTegTZTsMct2lTegYZHvIBaiaLfpR3A9dTaqhxwg5aXt8NHc4CFSbSaU05S46qqg3c4c0pHENQuAe8icPpDQ/640?wx_fmt=png&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.art.cool</id>
+    <title>酷感艺术在线 • Posts by &#34;钞子艺&#34; tag</title>
+    <link href="https://www.art.cool" />
+    <updated>2022-04-02T16:19:03.000Z</updated>
+    <category term="黎展华" />
+    <category term="杨亿" />
+    <category term="尹秋生" />
+    <category term="罗国强" />
+    <category term="朱松青" />
+    <category term="孟贤军" />
+    <category term="赵纯" />
+    <category term="潘跃辉" />
+    <category term="陈惠仪" />
+    <category term="钞子艺" />
+    <category term="钞子伟" />
+    <category term="何颖斯" />
+    <category term="何少中" />
+    <category term="陈庆文" />
+    <category term="李伟文" />
+    <category term="汪昌俞" />
+    <category term="杨永智" />
+    <category term="周荣昌" />
+    <category term="张铁柱" />
+    <category term="张伟" />
+    <entry>
+        <id>https://www.art.cool/2022-04-03-Brother-Chao-Works/</id>
+        <title>陶瓷雕塑语言转型——钞氏兄弟陶瓷雕塑作品鉴赏</title>
+        <link rel="alternate" href="https://www.art.cool/2022-04-03-Brother-Chao-Works/"/>
+        <content type="html">&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_png/iboCbkTegTZTsMct2lTegYZHvIBaiaLfpR3A9dTaqhxwg5aXt8NHc4CFSbSaU05S46qqg3c4c0pHENQuAe8icPpDQ/640?wx_fmt=png&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
 &lt;h1 id=&#34;陶瓷雕塑语言转型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#陶瓷雕塑语言转型&#34;&gt;#&lt;/a&gt; 陶瓷雕塑语言转型&lt;/h1&gt;
 &lt;p&gt;—— 以钞氏兄弟 30 年探索为例&lt;/p&gt;
 &lt;p&gt;钞子艺&lt;/p&gt;
@@ -357,7 +351,9 @@
 &lt;p&gt;&lt;strong&gt;收藏：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;中国美术馆，香港 M + 博物館、韩国利川博物馆，乌里・希克，台湾大未来画廊，台湾四行仓库、中华世纪坛、中国慈善总会、河南省美术馆，大同中国当代雕塑馆，北京当代唐人艺术中心，墙美术馆 ，南京爱涛艺术馆 ，纽约陶艺画廊，东盟艺术大赛组委会，惠安、佛山、厦门、郑州、新乡等政府机构，另有多件作品分别被画廊和个人收藏。‍&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;图文由画家本人提供&lt;/strong&gt;&lt;/p&gt;
- ]]></description>
-        </item>
-    </channel>
-</rss>
+</content>
+        <category term="钞子艺" />
+        <category term="钞子伟" />
+        <updated>2022-04-02T16:19:03.000Z</updated>
+    </entry>
+</feed>
