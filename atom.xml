@@ -2,18 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.art.cool</id>
     <title>酷感艺术在线</title>
-    <subtitle>Art Cool Online Exhibition</subtitle>
-    <icon>https://www.art.cool/images/favicon.ico</icon>
     <link href="https://www.art.cool" />
-    <author>
-      <name>ART.cool</name>
-    </author>
     <updated>2022-10-09T02:00:00.000Z</updated>
-    <category term="art" />
-    <category term="cool" />
-    <category term="酷感" />
-    <category term="艺术" />
-    <category term="艺术在线" />
+    <category term="黎展华" />
+    <category term="杨亿" />
+    <category term="罗国强" />
+    <category term="尹秋生" />
+    <category term="赵纯" />
+    <category term="孟贤军" />
+    <category term="朱松青" />
+    <category term="钞子艺" />
+    <category term="钞子伟" />
+    <category term="潘跃辉" />
+    <category term="陈庆文" />
+    <category term="李伟文" />
+    <category term="汪昌俞" />
+    <category term="杨永智" />
+    <category term="周荣昌" />
+    <category term="张铁柱" />
+    <category term="孙志纯" />
+    <category term="吴兆铭" />
+    <category term="写生香港" />
+    <category term="黄志洋" />
+    <category term="陆佳" />
+    <category term="陈惠仪" />
+    <category term="陈立人" />
+    <category term="何颖斯" />
+    <category term="张伟" />
+    <category term="何少中" />
     <entry>
         <id>https://www.art.cool/2022-10-09-Zhang-Wei-Art-Works/</id>
         <title>凝神写像——张伟作品</title>
@@ -538,8 +554,7 @@
 &lt;p&gt;作品被广东美术馆、广州美术学院美术馆、广州美术学院岭南画派纪念馆、广东画院美术馆、瑞士洛桑奥林匹克博物馆、香港浸会大学、香港历史博物馆、古元美术馆、珠江美术馆、21 空间美术馆、景源美术馆等公共艺术机构收藏&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;图文由画家本人提供&lt;/strong&gt;&lt;/p&gt;
 </content>
-        <category term="油画" scheme="https://www.art.cool/categories/%E6%B2%B9%E7%94%BB/" />
-        <category term="张伟" scheme="https://www.art.cool/tags/%E5%BC%A0%E4%BC%9F/" />
+        <category term="张伟" />
         <updated>2022-10-09T02:00:00.000Z</updated>
     </entry>
     <entry>
@@ -649,9 +664,7 @@
 &lt;p&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;图文由画家本人提供&lt;/strong&gt;&lt;/p&gt;
 </content>
-        <category term="和纸" scheme="https://www.art.cool/categories/%E5%92%8C%E7%BA%B8/" />
-        <category term="综合材料" scheme="https://www.art.cool/categories/%E7%BB%BC%E5%90%88%E6%9D%90%E6%96%99/" />
-        <category term="何颖斯" scheme="https://www.art.cool/tags/%E4%BD%95%E9%A2%96%E6%96%AF/" />
+        <category term="何颖斯" />
         <updated>2022-09-29T03:41:43.000Z</updated>
     </entry>
     <entry>
@@ -723,8 +736,7 @@
 &lt;h2 id=&#34;心象九-54x38-cm-2020&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#心象九-54x38-cm-2020&#34;&gt;#&lt;/a&gt; 心象九  54x38 cm  2020&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;图文由画家本人提供&lt;/strong&gt;&lt;/p&gt;
 </content>
-        <category term="油画" scheme="https://www.art.cool/categories/%E6%B2%B9%E7%94%BB/" />
-        <category term="何少中" scheme="https://www.art.cool/tags/%E4%BD%95%E5%B0%91%E4%B8%AD/" />
+        <category term="何少中" />
         <updated>2022-09-25T00:45:00.000Z</updated>
     </entry>
     <entry>
@@ -811,8 +823,7 @@
 &lt;h2 id=&#34;静物系列-7&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#静物系列-7&#34;&gt;#&lt;/a&gt; 《静物系列》 (7)&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;图文由画家本人提供&lt;/strong&gt;&lt;/p&gt;
 </content>
-        <category term="油画" scheme="https://www.art.cool/categories/%E6%B2%B9%E7%94%BB/" />
-        <category term="陈惠仪" scheme="https://www.art.cool/tags/%E9%99%88%E6%83%A0%E4%BB%AA/" />
+        <category term="陈惠仪" />
         <updated>2022-09-24T09:20:00.000Z</updated>
     </entry>
     <entry>
@@ -1025,8 +1036,7 @@
 &lt;hr /&gt;
 &lt;p&gt;&lt;strong&gt;图文由画家本人提供&lt;/strong&gt;&lt;/p&gt;
 </content>
-        <category term="水彩" scheme="https://www.art.cool/categories/%E6%B0%B4%E5%BD%A9/" />
-        <category term="陈立人" scheme="https://www.art.cool/tags/%E9%99%88%E7%AB%8B%E4%BA%BA/" />
+        <category term="陈立人" />
         <updated>2022-05-30T06:31:00.000Z</updated>
     </entry>
     <entry>
@@ -1245,8 +1255,7 @@
 &lt;hr /&gt;
 &lt;p&gt;&lt;strong&gt;图文由画家本人提供&lt;/strong&gt;&lt;/p&gt;
 </content>
-        <category term="水墨" scheme="https://www.art.cool/categories/%E6%B0%B4%E5%A2%A8/" />
-        <category term="陆佳" scheme="https://www.art.cool/tags/%E9%99%86%E4%BD%B3/" />
+        <category term="陆佳" />
         <updated>2022-05-20T14:21:00.000Z</updated>
     </entry>
     <entry>
@@ -1318,8 +1327,7 @@
 &lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZSqeucK5bacCcB1I7uNUNic6roOqsJz2icZpkrN6A2SIsnyJicKCdnsvHvWopUPyaKwBl2iaSYRrd06VA/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;图文由画家本人提供&lt;/strong&gt;&lt;/p&gt;
 </content>
-        <category term="油画" scheme="https://www.art.cool/categories/%E6%B2%B9%E7%94%BB/" />
-        <category term="黄志洋" scheme="https://www.art.cool/tags/%E9%BB%84%E5%BF%97%E6%B4%8B/" />
+        <category term="黄志洋" />
         <updated>2022-04-29T07:53:00.000Z</updated>
     </entry>
     <entry>
@@ -1362,9 +1370,7 @@
 &lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZQ7bWr79HMaxP4qz6J1icQib28g5LAZNtbwJ19taXx1ozJyYnF4xsXy5h66ibd4uuRDPtsw1RLvWMDqQ/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;图文由画家本人提供&lt;/strong&gt;&lt;/p&gt;
 </content>
-        <category term="油画" scheme="https://www.art.cool/categories/%E6%B2%B9%E7%94%BB/" />
-        <category term="丙烯" scheme="https://www.art.cool/categories/%E4%B8%99%E7%83%AF/" />
-        <category term="孙志纯" scheme="https://www.art.cool/tags/%E5%AD%99%E5%BF%97%E7%BA%AF/" />
+        <category term="孙志纯" />
         <updated>2022-04-24T02:52:00.000Z</updated>
     </entry>
     <entry>
@@ -1631,8 +1637,7 @@
 &lt;p&gt;林伊琦，香港艺术家，从事影视、绘画、设计、及监制等方面工作。创办了（亚洲美术双年展）同任三届组委会主席。现任星际亚洲美术家协会主席（香港），亚太国际油画家协会主席（香港），香港艺术界联合会主席，粤广澳大湾区文化艺术联合会，名誉主席。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;图文由画家本人提供&lt;/strong&gt;&lt;/p&gt;
 </content>
-        <category term="展览" scheme="https://www.art.cool/categories/%E5%B1%95%E8%A7%88/" />
-        <category term="写生香港" scheme="https://www.art.cool/tags/%E5%86%99%E7%94%9F%E9%A6%99%E6%B8%AF/" />
+        <category term="写生香港" />
         <updated>2022-04-17T16:10:05.000Z</updated>
     </entry>
     <entry>
@@ -1668,8 +1673,7 @@
 &lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZTUK90oueAtS0ANXevomnk1zG1eqj6bpU3mTrqtR98fbBQlrmj7exzfBicp933ZDaA9WxHkWGos8hQ/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;图文由画家本人提供&lt;/strong&gt;&lt;/p&gt;
 </content>
-        <category term="油画" scheme="https://www.art.cool/categories/%E6%B2%B9%E7%94%BB/" />
-        <category term="吴兆铭" scheme="https://www.art.cool/tags/%E5%90%B4%E5%85%86%E9%93%AD/" />
+        <category term="吴兆铭" />
         <updated>2022-04-12T02:30:00.000Z</updated>
     </entry>
     <entry>
@@ -2000,10 +2004,8 @@
 &lt;p&gt;中国美术馆，香港 M + 博物館、韩国利川博物馆，乌里・希克，台湾大未来画廊，台湾四行仓库、中华世纪坛、中国慈善总会、河南省美术馆，大同中国当代雕塑馆，北京当代唐人艺术中心，墙美术馆 ，南京爱涛艺术馆 ，纽约陶艺画廊，东盟艺术大赛组委会，惠安、佛山、厦门、郑州、新乡等政府机构，另有多件作品分别被画廊和个人收藏。‍&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;图文由画家本人提供&lt;/strong&gt;&lt;/p&gt;
 </content>
-        <category term="陶瓷" scheme="https://www.art.cool/categories/%E9%99%B6%E7%93%B7/" />
-        <category term="雕塑" scheme="https://www.art.cool/categories/%E9%9B%95%E5%A1%91/" />
-        <category term="钞子艺" scheme="https://www.art.cool/tags/%E9%92%9E%E5%AD%90%E8%89%BA/" />
-        <category term="钞子伟" scheme="https://www.art.cool/tags/%E9%92%9E%E5%AD%90%E4%BC%9F/" />
+        <category term="钞子艺" />
+        <category term="钞子伟" />
         <updated>2022-04-02T16:19:03.000Z</updated>
     </entry>
     <entry>
@@ -2355,15 +2357,14 @@
 &lt;p&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;图文由画家本人提供&lt;/strong&gt;&lt;/p&gt;
 </content>
-        <category term="画展" scheme="https://www.art.cool/categories/%E7%94%BB%E5%B1%95/" />
-        <category term="朱松青" scheme="https://www.art.cool/tags/%E6%9C%B1%E6%9D%BE%E9%9D%92/" />
-        <category term="孟贤军" scheme="https://www.art.cool/tags/%E5%AD%9F%E8%B4%A4%E5%86%9B/" />
-        <category term="陈庆文" scheme="https://www.art.cool/tags/%E9%99%88%E5%BA%86%E6%96%87/" />
-        <category term="李伟文" scheme="https://www.art.cool/tags/%E6%9D%8E%E4%BC%9F%E6%96%87/" />
-        <category term="汪昌俞" scheme="https://www.art.cool/tags/%E6%B1%AA%E6%98%8C%E4%BF%9E/" />
-        <category term="杨永智" scheme="https://www.art.cool/tags/%E6%9D%A8%E6%B0%B8%E6%99%BA/" />
-        <category term="周荣昌" scheme="https://www.art.cool/tags/%E5%91%A8%E8%8D%A3%E6%98%8C/" />
-        <category term="张铁柱" scheme="https://www.art.cool/tags/%E5%BC%A0%E9%93%81%E6%9F%B1/" />
+        <category term="孟贤军" />
+        <category term="朱松青" />
+        <category term="陈庆文" />
+        <category term="李伟文" />
+        <category term="汪昌俞" />
+        <category term="杨永智" />
+        <category term="周荣昌" />
+        <category term="张铁柱" />
         <updated>2022-04-02T16:19:03.000Z</updated>
     </entry>
     <entry>
@@ -2449,8 +2450,7 @@
 &lt;h2 id=&#34;大馆亮影-8080-丙烯-2022年&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#大馆亮影-8080-丙烯-2022年&#34;&gt;#&lt;/a&gt; 大馆亮影 80×80 丙烯 2022 年&lt;/h2&gt;
 &lt;p&gt;图文由画家本人提供&lt;/p&gt;
 </content>
-        <category term="油画" scheme="https://www.art.cool/categories/%E6%B2%B9%E7%94%BB/" />
-        <category term="潘跃辉" scheme="https://www.art.cool/tags/%E6%BD%98%E8%B7%83%E8%BE%89/" />
+        <category term="潘跃辉" />
         <updated>2022-03-27T16:10:30.000Z</updated>
     </entry>
     <entry>
@@ -2490,9 +2490,68 @@
 &lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRoYb9d2dwTHfgsH0gVUoCF3ydUuYR6nVNOKlrHKFeCp0lEMeeOPtC6D3uGiabx73cu9AzEanC1fQQ/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;图文由画家本人提供&lt;/strong&gt;&lt;/p&gt;
 </content>
-        <category term="油画" scheme="https://www.art.cool/categories/%E6%B2%B9%E7%94%BB/" />
-        <category term="孟贤军" scheme="https://www.art.cool/tags/%E5%AD%9F%E8%B4%A4%E5%86%9B/" />
+        <category term="孟贤军" />
         <updated>2022-03-22T16:10:30.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.art.cool/2022-03-16-Zhao-Chun-Works/</id>
+        <title>画笔写人生——赵纯油画花卉作品欣赏</title>
+        <link rel="alternate" href="https://www.art.cool/2022-03-16-Zhao-Chun-Works/"/>
+        <content type="html">&lt;p&gt;#画笔写人生&lt;br /&gt;
+&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZSR9v8IicGIQaicib0zjrKf4nSnNweYWPjDudz8ibXtXEEteDZLCYcnYRmL4D3BUJ3tEe4SPm3f87CmRQ/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47jEOMw24icbn8PjnjUicZlDYrNqiaw8kWMWhzlRISoBqf6dSptXxgeOC4g/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; width=&#34;200px&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;## 赵纯&lt;/p&gt;
+&lt;p&gt;著名旅美华人油画家，硕士研究生学位，中国意象油画代表人物，国家一级美术师，中国美术家协会会员，中国女画家协会理事，海外华人美术家协会副主席、秘书长兼洛杉矶分会主席，中俄油画协会副主席，中匈美术家协会副主席，北京大学北大新世纪书画院副院长，中国文化信息协会工艺美术专业委员会评审专家兼专家顾问，北京圆梦公益基金会决策委员会主席。近年来在中囯及世界范围内多次举办个人画展，近 200 幅作品被中国和世界著名艺术机构和艺术收藏家收藏。出版有 20 多部个人画册及专辑；中国及世界各媒体采访拍摄了十几部个人电视专题片并在世界范围内展播；其作品获得中国及世界范围内多种艺术奖项，并获得国家级多项个人荣誉。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47TMmDhdZHiaRibOmxrTw6ywhZEbS79JwE6AQy49NH9Le2LgapW2N3EdQA/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;## 画笔写人生 —— 读赵纯女士油彩下的花卉静物作品&lt;/p&gt;
+&lt;p&gt;作者：一鸿&lt;/p&gt;
+&lt;p&gt;喜欢赵纯的油画是因为她的每一幅画作中，无论是造型、色调、笔触都渗透着她对生活的感悟和对世界的态度。自然，她的这些花卉静物新作亦是如此。花草，无论是长在花盆中的植物还是插在花瓶中的鲜花，都是艺术家们非常钟爱的静物主题。&lt;/p&gt;
+&lt;p&gt;这次，这位创作时喜欢搞一些优雅情调的艺术家，把雅致的生活格调首先融入到主题画面的处理上，别出心裁地采用了一种很少见的高级灰色体系，丝绒般美妙的灰色调，透射着优雅与端严。&lt;/p&gt;
+&lt;p&gt;她的每一笔，不只是色彩，而是一种无限。这种脱胎换骨的色彩调和，又恰恰成就了这些画作的优雅灵动，进而展示着作品所承载的情感。&lt;/p&gt;
+&lt;p&gt;画面整体色调的处理，赵纯依然选择的是阳光、灿烂的亮灰色，蓬勃、盎然，传递着她傲娇与向上的人生态度。&lt;/p&gt;
+&lt;p&gt;至于画面的造型与布局，则隐隐透露出中国传统画法大写意的意蕴。退后一步，凝神屏气，虽是尺牍之间，却有万千气象之感。&lt;/p&gt;
+&lt;p&gt;她用画笔表达的是花的 &amp;quot;生命&amp;quot;，枝叶的不屈。抹去富贵与奢华，在画中尽量不用浓艳的色彩和闪光的器皿摆设，更不用晦暗的背景反衬花的绚烂。花的盛开意味着春天的结束，人生闪耀终究归于平淡。&lt;/p&gt;
+&lt;p&gt;她的这个系列作品，用的是油画的笔触，却满满的、国画的写意之风，虽是随意的寥寥数笔，几团色块，你却会感受到色块与笔触中充满着作者心与画的交流，色块中分明流动着所描绘对象的精致与鲜活。&lt;/p&gt;
+&lt;p&gt;斑驳粗放的油彩下，花朵生机盎然，泰然绽放；枝叶繁茂，舒展挺拔。仿佛在说：时光静好，与君享；似水流年，与君随；繁花落英，与君老。&lt;/p&gt;
+&lt;p&gt;仁者近山，智者羡水。赵纯跋涉在艺术之路，如同一场心灵修行的苦旅。落花流水，却让生命的根茎扎的更深；而此刻，窗外桃绯柳绿，碧水凝眸，暗香传送。她笔下的花，不仅是眼观的，更是需要用心去解读。&lt;/p&gt;
+&lt;p&gt;我想起赵纯的三美堂画室中怒放的蝴蝶兰，似乎猜到了赵纯用画笔传递的胸臆。&lt;/p&gt;
+&lt;p&gt;为什么要去读赵纯的画作？这要从赵纯女士特立独行的绘画艺术风格说起。这里说的特立独行，并非哗众取宠的故弄玄虚，而是她对自己的每一幅作品都倾注了对人生的思考和探究。&lt;/p&gt;
+&lt;p&gt;她的这个花卉静物系列，与自己的人生是相吻合的，梅花在苦寒中送香，人生在磨砺中成长。&lt;/p&gt;
+&lt;h2 id=&#34;作品欣赏-artwork-appreciation&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#作品欣赏-artwork-appreciation&#34;&gt;#&lt;/a&gt; 作品欣赏 ARTWORK APPRECIATION&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47ribZSHgkJQcAlruMrMZb8QYtr00oNHLB71DykyxvvfWPH6iaTaPEibTzA/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47l0Pn2kSfibSQUxX7icAUUrNzxe5jevbI4ic6HNgibNibSRKABUXhJIL2s8A/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47iazmJxU2pYKvHg6ibqMgpRrw4qZw30ssoZKTMccv9xkCJIA1fHGiazPfg/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg479ndbkPVmUpzF3eSaeGmWFVxcSyluKNl7s0ve7lGDJMEicPvPk8Kzf2g/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47RP9iaMSKibQllTFvLKIC4SE1L1l6dhYUrZ49Q5NYYTUW09bb3WTNsA5w/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47Jib2PwJPmxuDSuW74JduFyJCe1hABWT8P8icIfuYS7JftqyiaSRibzoSCQ/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47n4QaxBURVNFxjxDlOLNpAxNRRIvLLDjxMdL4cibvM9QIbqffFOK79oA/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47wc5mj9XgCX9C0uRFkLNVl0mmfg4FiaPROlksiaFEroohWDWPNZlUTvdw/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47gEkTAhkbm3nEhYDkloH2mYa9UWhPnonAyoaynuC3pRhUbremA1GlicQ/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47JLrJeIhXLpIOqjjguVkuvicS64oKcECiaEnB8otOhKOly1vawE9AbFow/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47CPc0nUL9uNaUYyibcec3QsQxyGHjluTJfVbicoezom4Xt2btmLjaibdPw/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47TVedTzOOvVicNhiccice3caDxbNxicrZpaqIC6jibg9OHddJMBWbgbWxUfw/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47LdSrbibwm3AcfiaHbkk9EteU6h2V64NCrWpAXibicCjaz4eZ4vVplcXSHQ/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47ibHSIkGiatXOrvCGmgm2rzMhicB6HZQNmL1GeQyicWAGgfsTTIBIbibBIMw/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47OgLiaakNFgsoIoAjzibral3LLnKLWcJPpgGmdbToP4Quhz4XEkjdq8gA/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47ibf5osIAHpHtGghQukOEujXxLcnLm6taOA4hFEYTSrVO7o74rN288icg/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47AjCEg20dxgIiaSHY2WYGiazg37MNjHE0ojaj8Mnbtf1uvDh4oYvQpOfw/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg474Jzx4xUaMwFyDcHw8e7ibRI6FpmDYNPYHlLibPr6IBStf0qCWPz0Q8Fw/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47ZX89kypyeqz57Aibkqve2YooqZ6RPZ0j8k9RIiaD6xic20mFmQyf5XMVQ/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47c9FUxicwwoTMibib5QFuIhnliaIq7bpeFG6T1zF6cOzJmn5DVYNMgL9N1g/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47YMPfmleEmjXTpic7u5rK1DqicD4PIZsAvX06n5icm2f3cxiaMHbELS08kQ/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47Q3y9Mtzlh1DZRI8DLXN6qt24pPibO5Hc2mzDZfnOAZ8svhbBhlq6jHw/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47ZibKU5qu95jCvewM8iasfeeib46JxwibErs18t3HM94LAFpC4fvXx3pQsw/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47Y7ic9FvD6gC9N2sDqzFFhicbzrpnBIgib7sdIgY0u24H8HRltv1WarcjQ/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47iaPTTnicuc403fBATOdTYeSn0ARM85URSJt1Iuo25JztCe1gunRJzZdg/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47o9DLnx0z9JR8MIZvgYUSamWlHM34H0icLPUB6JpvkwEv0cuBhpVP1CA/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47GjKUibaaHEozWKQbp2RkKJAiaODBOct2k5IW1X8Kbw0UayWRVvfFMAPA/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg479RW6WngMXtnljl25t7WCaibiaRlxljWv1bc2CqjsYSIZwd5UGZ13LuhA/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47nLARIqX2upB77QjxCKlFvgJ1q58grWSSwMCJKunkicrdhnFzI2krAKw/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47lGkicak2fdv5P4am7UfW8dWUa0iazETuyFsicRNGAx10I4s7I8t4KBmSA/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;图文由画家本人提供&lt;/strong&gt;&lt;/p&gt;
+</content>
+        <category term="赵纯" />
+        <updated>2022-03-10T16:10:30.000Z</updated>
     </entry>
     <entry>
         <id>https://www.art.cool/2022-03-11-Zhu-Songqing-Works/</id>
@@ -2567,69 +2626,7 @@
 &lt;h2 id=&#34;李老师的学生-80x60-油画-2021年&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#李老师的学生-80x60-油画-2021年&#34;&gt;#&lt;/a&gt; 李老师的学生 80X60 油画 2021 年&lt;/h2&gt;
 &lt;p&gt;图文由画家本人提供&lt;/p&gt;
 </content>
-        <category term="油画" scheme="https://www.art.cool/categories/%E6%B2%B9%E7%94%BB/" />
-        <category term="朱松青" scheme="https://www.art.cool/tags/%E6%9C%B1%E6%9D%BE%E9%9D%92/" />
-        <updated>2022-03-10T16:10:30.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://www.art.cool/2022-03-16-Zhao-Chun-Works/</id>
-        <title>画笔写人生——赵纯油画花卉作品欣赏</title>
-        <link rel="alternate" href="https://www.art.cool/2022-03-16-Zhao-Chun-Works/"/>
-        <content type="html">&lt;p&gt;#画笔写人生&lt;br /&gt;
-&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZSR9v8IicGIQaicib0zjrKf4nSnNweYWPjDudz8ibXtXEEteDZLCYcnYRmL4D3BUJ3tEe4SPm3f87CmRQ/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47jEOMw24icbn8PjnjUicZlDYrNqiaw8kWMWhzlRISoBqf6dSptXxgeOC4g/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; width=&#34;200px&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;## 赵纯&lt;/p&gt;
-&lt;p&gt;著名旅美华人油画家，硕士研究生学位，中国意象油画代表人物，国家一级美术师，中国美术家协会会员，中国女画家协会理事，海外华人美术家协会副主席、秘书长兼洛杉矶分会主席，中俄油画协会副主席，中匈美术家协会副主席，北京大学北大新世纪书画院副院长，中国文化信息协会工艺美术专业委员会评审专家兼专家顾问，北京圆梦公益基金会决策委员会主席。近年来在中囯及世界范围内多次举办个人画展，近 200 幅作品被中国和世界著名艺术机构和艺术收藏家收藏。出版有 20 多部个人画册及专辑；中国及世界各媒体采访拍摄了十几部个人电视专题片并在世界范围内展播；其作品获得中国及世界范围内多种艺术奖项，并获得国家级多项个人荣誉。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47TMmDhdZHiaRibOmxrTw6ywhZEbS79JwE6AQy49NH9Le2LgapW2N3EdQA/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;## 画笔写人生 —— 读赵纯女士油彩下的花卉静物作品&lt;/p&gt;
-&lt;p&gt;作者：一鸿&lt;/p&gt;
-&lt;p&gt;喜欢赵纯的油画是因为她的每一幅画作中，无论是造型、色调、笔触都渗透着她对生活的感悟和对世界的态度。自然，她的这些花卉静物新作亦是如此。花草，无论是长在花盆中的植物还是插在花瓶中的鲜花，都是艺术家们非常钟爱的静物主题。&lt;/p&gt;
-&lt;p&gt;这次，这位创作时喜欢搞一些优雅情调的艺术家，把雅致的生活格调首先融入到主题画面的处理上，别出心裁地采用了一种很少见的高级灰色体系，丝绒般美妙的灰色调，透射着优雅与端严。&lt;/p&gt;
-&lt;p&gt;她的每一笔，不只是色彩，而是一种无限。这种脱胎换骨的色彩调和，又恰恰成就了这些画作的优雅灵动，进而展示着作品所承载的情感。&lt;/p&gt;
-&lt;p&gt;画面整体色调的处理，赵纯依然选择的是阳光、灿烂的亮灰色，蓬勃、盎然，传递着她傲娇与向上的人生态度。&lt;/p&gt;
-&lt;p&gt;至于画面的造型与布局，则隐隐透露出中国传统画法大写意的意蕴。退后一步，凝神屏气，虽是尺牍之间，却有万千气象之感。&lt;/p&gt;
-&lt;p&gt;她用画笔表达的是花的 &amp;quot;生命&amp;quot;，枝叶的不屈。抹去富贵与奢华，在画中尽量不用浓艳的色彩和闪光的器皿摆设，更不用晦暗的背景反衬花的绚烂。花的盛开意味着春天的结束，人生闪耀终究归于平淡。&lt;/p&gt;
-&lt;p&gt;她的这个系列作品，用的是油画的笔触，却满满的、国画的写意之风，虽是随意的寥寥数笔，几团色块，你却会感受到色块与笔触中充满着作者心与画的交流，色块中分明流动着所描绘对象的精致与鲜活。&lt;/p&gt;
-&lt;p&gt;斑驳粗放的油彩下，花朵生机盎然，泰然绽放；枝叶繁茂，舒展挺拔。仿佛在说：时光静好，与君享；似水流年，与君随；繁花落英，与君老。&lt;/p&gt;
-&lt;p&gt;仁者近山，智者羡水。赵纯跋涉在艺术之路，如同一场心灵修行的苦旅。落花流水，却让生命的根茎扎的更深；而此刻，窗外桃绯柳绿，碧水凝眸，暗香传送。她笔下的花，不仅是眼观的，更是需要用心去解读。&lt;/p&gt;
-&lt;p&gt;我想起赵纯的三美堂画室中怒放的蝴蝶兰，似乎猜到了赵纯用画笔传递的胸臆。&lt;/p&gt;
-&lt;p&gt;为什么要去读赵纯的画作？这要从赵纯女士特立独行的绘画艺术风格说起。这里说的特立独行，并非哗众取宠的故弄玄虚，而是她对自己的每一幅作品都倾注了对人生的思考和探究。&lt;/p&gt;
-&lt;p&gt;她的这个花卉静物系列，与自己的人生是相吻合的，梅花在苦寒中送香，人生在磨砺中成长。&lt;/p&gt;
-&lt;h2 id=&#34;作品欣赏-artwork-appreciation&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#作品欣赏-artwork-appreciation&#34;&gt;#&lt;/a&gt; 作品欣赏 ARTWORK APPRECIATION&lt;/h2&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47ribZSHgkJQcAlruMrMZb8QYtr00oNHLB71DykyxvvfWPH6iaTaPEibTzA/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47l0Pn2kSfibSQUxX7icAUUrNzxe5jevbI4ic6HNgibNibSRKABUXhJIL2s8A/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47iazmJxU2pYKvHg6ibqMgpRrw4qZw30ssoZKTMccv9xkCJIA1fHGiazPfg/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg479ndbkPVmUpzF3eSaeGmWFVxcSyluKNl7s0ve7lGDJMEicPvPk8Kzf2g/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47RP9iaMSKibQllTFvLKIC4SE1L1l6dhYUrZ49Q5NYYTUW09bb3WTNsA5w/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47Jib2PwJPmxuDSuW74JduFyJCe1hABWT8P8icIfuYS7JftqyiaSRibzoSCQ/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47n4QaxBURVNFxjxDlOLNpAxNRRIvLLDjxMdL4cibvM9QIbqffFOK79oA/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47wc5mj9XgCX9C0uRFkLNVl0mmfg4FiaPROlksiaFEroohWDWPNZlUTvdw/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47gEkTAhkbm3nEhYDkloH2mYa9UWhPnonAyoaynuC3pRhUbremA1GlicQ/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47JLrJeIhXLpIOqjjguVkuvicS64oKcECiaEnB8otOhKOly1vawE9AbFow/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47CPc0nUL9uNaUYyibcec3QsQxyGHjluTJfVbicoezom4Xt2btmLjaibdPw/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47TVedTzOOvVicNhiccice3caDxbNxicrZpaqIC6jibg9OHddJMBWbgbWxUfw/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47LdSrbibwm3AcfiaHbkk9EteU6h2V64NCrWpAXibicCjaz4eZ4vVplcXSHQ/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47ibHSIkGiatXOrvCGmgm2rzMhicB6HZQNmL1GeQyicWAGgfsTTIBIbibBIMw/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47OgLiaakNFgsoIoAjzibral3LLnKLWcJPpgGmdbToP4Quhz4XEkjdq8gA/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47ibf5osIAHpHtGghQukOEujXxLcnLm6taOA4hFEYTSrVO7o74rN288icg/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47AjCEg20dxgIiaSHY2WYGiazg37MNjHE0ojaj8Mnbtf1uvDh4oYvQpOfw/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg474Jzx4xUaMwFyDcHw8e7ibRI6FpmDYNPYHlLibPr6IBStf0qCWPz0Q8Fw/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47ZX89kypyeqz57Aibkqve2YooqZ6RPZ0j8k9RIiaD6xic20mFmQyf5XMVQ/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47c9FUxicwwoTMibib5QFuIhnliaIq7bpeFG6T1zF6cOzJmn5DVYNMgL9N1g/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47YMPfmleEmjXTpic7u5rK1DqicD4PIZsAvX06n5icm2f3cxiaMHbELS08kQ/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47Q3y9Mtzlh1DZRI8DLXN6qt24pPibO5Hc2mzDZfnOAZ8svhbBhlq6jHw/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47ZibKU5qu95jCvewM8iasfeeib46JxwibErs18t3HM94LAFpC4fvXx3pQsw/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47Y7ic9FvD6gC9N2sDqzFFhicbzrpnBIgib7sdIgY0u24H8HRltv1WarcjQ/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47iaPTTnicuc403fBATOdTYeSn0ARM85URSJt1Iuo25JztCe1gunRJzZdg/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47o9DLnx0z9JR8MIZvgYUSamWlHM34H0icLPUB6JpvkwEv0cuBhpVP1CA/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47GjKUibaaHEozWKQbp2RkKJAiaODBOct2k5IW1X8Kbw0UayWRVvfFMAPA/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg479RW6WngMXtnljl25t7WCaibiaRlxljWv1bc2CqjsYSIZwd5UGZ13LuhA/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47nLARIqX2upB77QjxCKlFvgJ1q58grWSSwMCJKunkicrdhnFzI2krAKw/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_jpg/iboCbkTegTZRT5gobvXukA5kECjfKVg47lGkicak2fdv5P4am7UfW8dWUa0iazETuyFsicRNGAx10I4s7I8t4KBmSA/640?wx_fmt=jpeg&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;图文由画家本人提供&lt;/strong&gt;&lt;/p&gt;
-</content>
-        <category term="油画" scheme="https://www.art.cool/categories/%E6%B2%B9%E7%94%BB/" />
-        <category term="赵纯" scheme="https://www.art.cool/tags/%E8%B5%B5%E7%BA%AF/" />
+        <category term="朱松青" />
         <updated>2022-03-10T16:10:30.000Z</updated>
     </entry>
     <entry>
@@ -2675,8 +2672,7 @@
 海外华人美术家协会广州分会执行主席，广东省美术家协会会员，曾任第一届广州青年美术协会副会长，广东省油画研究会理事，有多件雕塑，油画作品入选全国美展，全军美展以及省市美展，部分作品并获奖，现回国做自由画家。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;图文由画家本人提供&lt;/strong&gt;&lt;/p&gt;
 </content>
-        <category term="油画" scheme="https://www.art.cool/categories/%E6%B2%B9%E7%94%BB/" />
-        <category term="罗国强" scheme="https://www.art.cool/tags/%E7%BD%97%E5%9B%BD%E5%BC%BA/" />
+        <category term="罗国强" />
         <updated>2022-03-02T16:11:30.000Z</updated>
     </entry>
     <entry>
@@ -2816,11 +2812,7 @@
 &lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_png/iboCbkTegTZTKaibx8oHlgyP6g74w3OzRL5uUHDU1WkhwudicpQarA5klzO5xTqCt2QIqDRzyQtY3mXXWKYyaZEeA/640?wx_fmt=png&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&#34; alt=&#34;图片&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;图文由画家本人提供&lt;/strong&gt;&lt;/p&gt;
 </content>
-        <category term="版画" scheme="https://www.art.cool/categories/%E7%89%88%E7%94%BB/" />
-        <category term="水墨" scheme="https://www.art.cool/categories/%E6%B0%B4%E5%A2%A8/" />
-        <category term="雕刻" scheme="https://www.art.cool/categories/%E9%9B%95%E5%88%BB/" />
-        <category term="书法" scheme="https://www.art.cool/categories/%E4%B9%A6%E6%B3%95/" />
-        <category term="尹秋生" scheme="https://www.art.cool/tags/%E5%B0%B9%E7%A7%8B%E7%94%9F/" />
+        <category term="尹秋生" />
         <updated>2022-02-26T02:30:59.000Z</updated>
     </entry>
     <entry>
@@ -2920,8 +2912,7 @@
 &lt;p&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;图文由画家本人提供&lt;/strong&gt;&lt;/p&gt;
 </content>
-        <category term="油画" scheme="https://www.art.cool/categories/%E6%B2%B9%E7%94%BB/" />
-        <category term="杨亿" scheme="https://www.art.cool/tags/%E6%9D%A8%E4%BA%BF/" />
+        <category term="杨亿" />
         <updated>2022-02-23T05:53:50.000Z</updated>
     </entry>
     <entry>
@@ -2972,8 +2963,7 @@
 中国艺术家协会南方艺术品鉴定委员会委员长&lt;br /&gt;
 广东省收藏家协会名誉主席&lt;/p&gt;
 </content>
-        <category term="水墨" scheme="https://www.art.cool/categories/%E6%B0%B4%E5%A2%A8/" />
-        <category term="黎展华" scheme="https://www.art.cool/tags/%E9%BB%8E%E5%B1%95%E5%8D%8E/" />
+        <category term="黎展华" />
         <updated>2022-02-02T16:11:49.000Z</updated>
     </entry>
 </feed>
